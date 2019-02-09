@@ -14,6 +14,7 @@ t.pendown()
 
 t.screen.bgcolor("black")
 colors=["red","yellow","purple"]
+print("hello")
 t.screen.tracer(0,0)
 for x in range(100):
     t.circle(x)
