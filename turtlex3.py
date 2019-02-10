@@ -1,4 +1,5 @@
 from turtle import *
+print("amit")
 t=Turtle()
 t.color("red","green")
 t.hideturtle()
